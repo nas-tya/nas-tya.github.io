@@ -4,4 +4,8 @@
 
 ## Портфолио по веб-проектированию: 
 
+https://nas-tya.github.io/web/
+
 ## Портфолио по компьютерному практикуму:
+
+https://nas-tya.github.io/comp_pract/
