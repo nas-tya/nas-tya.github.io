@@ -9,3 +9,7 @@ https://nas-tya.github.io/web/
 ## Портфолио по компьютерному практикуму:
 
 https://nas-tya.github.io/comp_pract/
+
+## Портфолио по компьютерному основам компьютерной алгебры:
+
+https://nas-tya.github.io/comp_alg/
